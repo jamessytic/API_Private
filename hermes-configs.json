@@ -3,23 +3,23 @@
   "codes": {
     "1234": {
       "provider": "openrouter",
-      "apiKey": "YOUR_GROQ_API_KEY_HERE",
-      "model": "llama-3.3-70b-versatile"
+      "apiKey": "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",
+      "model": "meta-llama/llama-3.3-70b-instruct:free"
     },
     "5678": {
       "provider": "openrouter",
       "apiKey": "YOUR_OPENROUTER_API_KEY_HERE",
-      "model": "YOUR_OPENROUTER_MODEL_ID_HERE"
+      "model": "meta-llama/llama-3.3-70b-instruct:free"
     },
     "2468": {
       "provider": "openrouter",
       "apiKey": "YOUR_CEREBRAS_API_KEY_HERE",
-      "model": "YOUR_CEREBRAS_MODEL_ID_HERE"
+      "model": "meta-llama/llama-3.3-70b-instruct:free"
     },
     "0091": {
       "provider": "openrouter",
       "apiKey": "YOUR_GEMINI_API_KEY_HERE",
-      "model": "YOUR_GEMINI_MODEL_ID_HERE"
+      "model": "meta-llama/llama-3.3-70b-instruct:free"
     }
   }
 }
