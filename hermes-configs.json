@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "codes": {
+    "1234": {
+      "provider": "openrouter",
+      "apiKey": "YOUR_GROQ_API_KEY_HERE",
+      "model": "llama-3.3-70b-versatile"
+    },
+    "5678": {
+      "provider": "openrouter",
+      "apiKey": "YOUR_OPENROUTER_API_KEY_HERE",
+      "model": "YOUR_OPENROUTER_MODEL_ID_HERE"
+    },
+    "2468": {
+      "provider": "openrouter",
+      "apiKey": "YOUR_CEREBRAS_API_KEY_HERE",
+      "model": "YOUR_CEREBRAS_MODEL_ID_HERE"
+    },
+    "0091": {
+      "provider": "openrouter",
+      "apiKey": "YOUR_GEMINI_API_KEY_HERE",
+      "model": "YOUR_GEMINI_MODEL_ID_HERE"
+    }
+  }
+}
